@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHub! I'm Fabiane Queiroz.
+
+Here is a short bio:
+
+I received a Bachelor's in Computer Science from the Computer Institute at the Federal University of Alagoas - Brazil.  I did a master's degree (Computer Graphics) at the Informatics Center at the Federal University of Pernambuco - Brazil. I did my doctorate (Image Processing and Computer Vision) at the same University. I worked with Procedural Texture Synthesis in a 3D domain during my MSc. I focused on studying and developing a biological model for animal white spotting coat pattern generation. In my doctorate, I worked with Medical Image Restoration. 
+
+Currently, I'm a Research/Professor at Universidade Federal of Alagoas. I teach my students about Algorithms, Data Structures and Object Orientation, Differential Calculus, Numerical Analysis, Signal and System Analysis, and Image Analysis. Yes, I know, it is too much!! Being a professor in Brazil hurts! My research interests include Medical Image Processing, Medical Data Analysis, Machine Learning, and Computer Vision.
+
 <!--
 **fabiqroz/fabiqroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
